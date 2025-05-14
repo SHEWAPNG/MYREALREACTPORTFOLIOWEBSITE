@@ -8,28 +8,28 @@ const Index: React.FC = () => {
   // Featured projects data
   const featuredProjects = [
     {
-      title: 'E-commerce Dashboard',
-      description: 'A responsive admin dashboard for managing products, orders, and customers.',
-      imageUrl: 'photo-1460925895917-afdab827c52f',
-      tags: ['React', 'Tailwind CSS', 'Chart.js'],
-      liveUrl: '#',
-      category: 'UI/UX'
-    },
-    {
-      title: 'Travel Booking App',
-      description: 'Mobile-first web application for booking flights, hotels, and experiences.',
-      imageUrl: 'photo-1488590528505-98d2b5aba04b',
-      tags: ['React', 'CSS', 'API Integration'],
-      liveUrl: '#',
+      title: 'Threat Intelligence  Dashboard',
+      description: 'A Threat Intelligence Dashboard.',
+      imageUrl:'/assets/threat.png',
+      tags: ['Html', ' CSS', 'API'],
+      liveUrl: 'https://threat-intellgence-dashboard.vercel.app/',
       category: 'Frontend'
     },
     {
-      title: 'Personal Finance Tracker',
-      description: 'Dashboard that helps users track expenses and visualize spending habits.',
-      imageUrl: 'photo-1460925895917-afdab827c52f',
-      tags: ['React', 'D3.js', 'Firebase'],
+       title: 'A Simple Food Delivery UI',
+      description: 'A simple Food Delivery website UI .',
+      imageUrl: 'assets/A SIMPLE FOOD DELIVERY UI.png',
+      tags: ['Figma', ],
       liveUrl: '#',
       category: 'UI/UX'
+    },
+    {
+   title: 'Complete Phantom Crypto Wallet APP UI Redesigned',
+      description: 'This  is a complete Phantom Wallet Crypto app UI that was redesigned by me as a UI/UX designer.',
+      imageUrl: 'assets/Complete phant.png',
+      tags: ['Figma', , ],
+      liveUrl: '#',
+      category: 'UI/UX' 
     }
   ];
   
