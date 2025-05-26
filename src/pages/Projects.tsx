@@ -18,6 +18,51 @@ const Projects: React.FC = () => {
     },
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+{
+      title: 'A Simple Food Delivery  APP UI',
+      description: 'A simple Food Delivery website UI  consisiting of the homepage,login page , email verification and confirmation page .',
+      imageUrl: 'assets/FOOD DELIVERY APP UI.png',
+      tags: ['Figma', ],
+      liveUrl: '#',
+      category: 'UI/UX'
+    },
+
+
+
+
+
+
+
+
+
+{
+      title: 'FOOD DELIVERY APP UI',
+      description: 'This is a food delivery app UI design with 5 interactive screens, including a complete login flow. The prototype shows how each screen connects and functions, giving a full preview of the user experience from login to navigation',
+      imageUrl: 'assets/My first react.png',
+      tags: ['Figma', ],
+      liveUrl: 'https://my-first-react-mini-project-a-profile-card-component.vercel.app/',
+
+      category: 'UI/UX'
+    },
+
+
+
+
+
+
+
 {
       title: 'A Simple Food Delivery UI',
       description: 'A simple Food Delivery website UI .',
