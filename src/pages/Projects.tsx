@@ -47,15 +47,15 @@ const Projects: React.FC = () => {
 
 
 
-{
-      title: 'FOOD DELIVERY APP UI',
-      description: 'This is a food delivery app UI design with 5 interactive screens, including a complete login flow. The prototype shows how each screen connects and functions, giving a full preview of the user experience from login to navigation',
-      imageUrl: 'assets/My first react.png',
-      tags: ['Figma', ],
-      liveUrl: 'https://my-first-react-mini-project-a-profile-card-component.vercel.app/',
+ {
+       title: 'A VIRTUE SCREEN PAGE ',
+       description: 'This is a  virtue screen page that has different pills component thta has a selected and an unselected variant component. I made use of auto layout and compnents. Ths design was made to showcase my Auto layout , Component and prototyping  design skills ' ,
+       imageUrl: 'assets/Screenshot 2025-05-28 110527.png',
+      tags: ['Figma', `Prototyping`],
+     liveUrl: 'https://www.figma.com/proto/8h9Fn8lXdmRHnbRrjVsKil/SACRENA-INTERVIEW-TEST?page-id=0%3A1&node-id=63-2&viewport=-54283%2C1832%2C1.4&t=tRovZ0lpbsdihZLV-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=63%3A2',
 
-      category: 'UI/UX'
-    },
+       category: 'UI/UX'
+     },
 
 
 
