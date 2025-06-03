@@ -38,11 +38,11 @@ const Index: React.FC = () => {
   
   // Skills data
   const skills = [
-    { name: 'HTML', level:  },
-    { name: 'CSS', level:  },
-    { name: 'JavaScript', level:  },
-    { name: 'React', level:  },
-    { name: 'Figma', level:  },
+    { name: 'HTML', level: ``},
+    { name: 'CSS', level: `` },
+    { name: 'JavaScript', level: `` },
+    { name: 'React', level: `` },
+    { name: 'Figma', level: `` },
   ];
   
   // Testimonials data
@@ -80,10 +80,10 @@ const Index: React.FC = () => {
                 <div className="w-full bg-muted h-2 rounded-full overflow-hidden">
                   <div 
                     className="bg-primary-foreground h-full rounded-full"
-                    style={{ width: `${skill.level}%` }}
+                    style={{ width: `${skill.level}` }}
                   ></div>
                 </div>
-                <p className="mt-2 text-sm text-darkText/70">{skill.level}%</p>
+                <p className="mt-2 text-sm text-darkText/70">{skill.level}</p>
               </div>
             ))}
           </div>
