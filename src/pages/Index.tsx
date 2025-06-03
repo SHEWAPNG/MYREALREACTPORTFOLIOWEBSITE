@@ -15,14 +15,17 @@ const Index: React.FC = () => {
       liveUrl: 'https://threat-intellgence-dashboard.vercel.app/',
       category: 'Frontend'
     },
-    {
-       title: 'A Simple Food Delivery UI',
-      description: 'A simple Food Delivery website UI .',
-      imageUrl: 'assets/A SIMPLE FOOD DELIVERY UI.png',
-      tags: ['Figma', ],
-      liveUrl: '#',
-      category: 'UI/UX'
-    },
+   {
+  title: 'Savira & ChopNow Food Website UIs',
+  description: 'Two fictional food brand interfaces built to explore UI storytelling and responsive design. Savira is a clean, wellness-inspired grilled fish brand. ChopNow celebrates Nigerian culture through bold visuals and local dishes like Amala & Ewedu. Both UIs are fully responsive across desktop, tablet, and mobile. Attached are the Mockups below.',
+
+
+  imageUrl: '/assets/food detail ui.png',
+  tags: ['Figma',],
+  liveUrl: '#', // Add live link or leave blank if it's not deployed
+  category: 'UI/UX Design '
+},
+
     {
    title: 'Complete Phantom Crypto Wallet APP UI Redesigned',
       description: 'This  is a complete Phantom Wallet Crypto app UI that was redesigned by me as a UI/UX designer.',
@@ -35,17 +38,17 @@ const Index: React.FC = () => {
   
   // Skills data
   const skills = [
-    { name: 'HTML', level: 90 },
-    { name: 'CSS', level: 85 },
-    { name: 'JavaScript', level: 80 },
-    { name: 'React', level: 85 },
-    { name: 'Figma', level: 90 },
+    { name: 'HTML', level:  },
+    { name: 'CSS', level:  },
+    { name: 'JavaScript', level:  },
+    { name: 'React', level:  },
+    { name: 'Figma', level:  },
   ];
   
   // Testimonials data
   const testimonials = [
     {
-      text: "Working with Oyeladun was a game-changer for our company. They delivered a beautiful website that perfectly captured our brand identity.",
+      text: "Working with Oyeladun was a game-changer for our company. She delivered a beautiful website that perfectly captured our brand identity.",
       name: "Sarah Johnson",
       position: "CEO, TechStart"
     },
