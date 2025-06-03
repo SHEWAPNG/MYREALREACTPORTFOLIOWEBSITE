@@ -38,12 +38,13 @@ const Index: React.FC = () => {
   
   // Skills data
   const skills = [
-    { name: 'HTML', level:  },
-    { name: 'CSS', level:  },
-    { name: 'JavaScript', level:  },
-    { name: 'React', level:  },
-    { name: 'Figma', level:  },
-  ];
+  { name: 'HTML', level: '90%' },
+  { name: 'CSS', level: '85%' },
+  { name: 'JavaScript', level: '75%' },
+  { name: 'React', level: '70%' },
+  { name: 'Figma', level: '88%' },
+];
+
   
   // Testimonials data
   const testimonials = [
