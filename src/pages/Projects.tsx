@@ -19,6 +19,99 @@ const Projects: React.FC = () => {
 
 
 
+{
+  title: 'Savira & ChopNow Food Website UIs',
+  description: 'Two fictional food brand interfaces built to explore UI storytelling and responsive design. Savira is a clean, wellness-inspired grilled fish brand. ChopNow celebrates Nigerian culture through bold visuals and local dishes like Amala & Ewedu. Both UIs are fully responsive across desktop, tablet, and mobile. Attached are the Mockups below.',
+
+
+  imageUrl: '/assets/food detail ui.png',
+  tags: ['Figma',],
+  liveUrl: '#', // Add live link or leave blank if it's not deployed
+  category: 'UI/UX Design '
+},
+
+
+
+
+
+
+
+
+{
+  title: 'Savira & ChopNow Food Website Laptop Mockups',
+  description: 'Two fictional food brand interfaces built to explore UI storytelling and responsive design. Savira is a clean, wellness-inspired grilled fish brand. ChopNow celebrates Nigerian culture through bold visuals and local dishes like Amala & Ewedu. Both UIs are fully responsive across desktop, tablet, and mobile. Attached are the Mockups below.',
+
+
+  imageUrl: '/assets/food detals 2.png',
+  tags: ['Figma',],
+  liveUrl: '#', // Add live link or leave blank if it's not deployed
+  category: 'UI/UX Design '
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  title: 'Savira & ChopNow Food Website Mockups',
+  description: 'Two fictional food brand interfaces built to explore UI storytelling and responsive design. Savira is a clean, wellness-inspired grilled fish brand. ChopNow celebrates Nigerian culture through bold visuals and local dishes like Amala & Ewedu. Both UIs are fully responsive across desktop, tablet, and mobile. Attached are the Mockups below.',
+
+
+  imageUrl: '/assets/Food deatils.png',
+  tags: ['Figma',],
+  liveUrl: '#', // Add live link or leave blank if it's not deployed
+  category: 'UI/UX Design '
+},
+
+
+
+
+
+
+
+
+
+
+{
+  title: 'Savira & ChopNow Food Website  Phone Mockups',
+  description: 'Two fictional food brand interfaces built to explore UI storytelling and responsive design. Savira is a clean, wellness-inspired grilled fish brand. ChopNow celebrates Nigerian culture through bold visuals and local dishes like Amala & Ewedu. Both UIs are fully responsive across desktop, tablet, and mobile. Attached are the Mockups below.',
+
+
+  imageUrl: '/assets/fod details phone mockup.png',
+  tags: ['Figma',],
+  liveUrl: '#', // Add live link or leave blank if it's not deployed
+  category: 'UI/UX Design '
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  title: 'Savira & ChopNow Food Website  Phone Mockups',
+  description: 'Two fictional food brand interfaces built to explore UI storytelling and responsive design. Savira is a clean, wellness-inspired grilled fish brand. ChopNow celebrates Nigerian culture through bold visuals and local dishes like Amala & Ewedu. Both UIs are fully responsive across desktop, tablet, and mobile. Attached are the Mockups below.',
+
+
+  imageUrl: '/assets/DESKTOP.png',
+  tags: ['Figma',],
+  liveUrl: '#', // Add live link or leave blank if it's not deployed
+  category: 'UI/UX Design '
+},
 
 
 
