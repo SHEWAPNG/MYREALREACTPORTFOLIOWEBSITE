@@ -46,7 +46,7 @@ const Index: React.FC = () => {
     { name: 'CSS', level: `` },
     { name: 'JavaScript', level: `` },
     { name: 'React', level: `` },
-    { name: 'Figma', level:``:},
+    { name: 'Figma', level:``},
   ];
   
   // Testimonials data
