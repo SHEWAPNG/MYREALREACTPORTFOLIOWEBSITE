@@ -19,6 +19,49 @@ const Projects: React.FC = () => {
 
 
 
+
+
+
+
+
+
+
+
+{
+  title: 'Payment Split Mobile App – Lendsqr UI/UX Design Challenge',
+  description: 'As part of a product design assessment for Lendsqr, I designed a full mobile experience that allows users to split shared expenses, track group payments, and settle debts via bank transfer or USSD. I handled the end-to-end process  from problem understanding to UX flow, high-fidelity designs, and interactive prototype.',
+
+
+  imageUrl: '/assets/paysplit app.png',
+  tags: ['Figma',],
+  liveUrl: 'https://www.figma.com/proto/NmKMwIUsc3bjvSgfG7vjrK/MY-LENDSQR-ASSESSMENT-TEST-SUBMISSIONMY?node-id=1-1122&starting-point-node-id=1%3A2', // Add live link or leave blank if it's not deployed
+  category: 'UI/UX Design '
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
   title: 'Savira & ChopNow Food Website UIs',
   description: 'Two fictional food brand interfaces built to explore UI storytelling and responsive design. Savira is a clean, wellness-inspired grilled fish brand. ChopNow celebrates Nigerian culture through bold visuals and local dishes like Amala & Ewedu. Both UIs are fully responsive across desktop, tablet, and mobile. Attached are the Mockups below.',
