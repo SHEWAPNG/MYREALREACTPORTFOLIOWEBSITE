@@ -30,6 +30,34 @@ const Index: React.FC = () => {
   category: 'UI/UX Design '
 },
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+{
+  title: 'Local Food Delivery App UI',
+  description: 'A 12-screen responsive food delivery app UI built with a full user flow, focused on simplicity and real-world use.',
+  imageUrl: '/assets/Screenshot(160).png',
+  tags: ['Figma', 'UI Design', 'UX'],
+  liveUrl: 'https://www.figma.com/proto/aNCJUTQivAWftcqvJtkdV7/CHOPNOW-FOOD-UI?node-id=125-246&t=0bq9vX3L5Ie2UDPS-1',
+  category: 'UI/UX'
+},
+
+
+
+
+
     {
    title: 'Complete Phantom Crypto Wallet APP UI Redesigned',
       description: 'This  is a complete Phantom Wallet Crypto app UI that was redesigned by me as a UI/UX designer.',
@@ -46,7 +74,7 @@ const Index: React.FC = () => {
     { name: 'CSS', level: `` },
     { name: 'JavaScript', level: `` },
     { name: 'React', level: `` },
-    { name: 'Figma', level:``:},
+    { name: 'Figma', level:``},
   ];
   
   // Testimonials data
