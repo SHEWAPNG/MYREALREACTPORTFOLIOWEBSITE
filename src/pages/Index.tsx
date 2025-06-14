@@ -48,7 +48,7 @@ const Index: React.FC = () => {
 {
   title: 'Local Food Delivery App UI',
   description: 'A 12-screen responsive food delivery app UI built with a full user flow, focused on simplicity and real-world use.',
-  imageUrl: '/assets/Screenshot(160).png',
+  imageUrl: '/assets/Screenshot (160).png',
   tags: ['Figma', 'UI Design', 'UX'],
   liveUrl: 'https://www.figma.com/proto/aNCJUTQivAWftcqvJtkdV7/CHOPNOW-FOOD-UI?node-id=125-246&t=0bq9vX3L5Ie2UDPS-1',
   category: 'UI/UX'
