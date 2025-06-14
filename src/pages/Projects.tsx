@@ -28,8 +28,8 @@ const Projects: React.FC = () => {
 
 
 {
-  title: 'Payment Split Mobile App – Lendsqr UI/UX Design Challenge',
-  description: 'As part of a product design assessment for Lendsqr, I designed a full mobile experience that allows users to split shared expenses, track group payments, and settle debts via bank transfer or USSD. I handled the end-to-end process  from problem understanding to UX flow, high-fidelity designs, and interactive prototype.',
+  title: 'Payment Split Mobile App ',
+  description: 'As part of a product design assessment , I designed a full mobile experience that allows users to split shared expenses, track group payments, and settle debts via bank transfer or USSD. I handled the end-to-end process  from problem understanding to UX flow, high-fidelity designs, and interactive prototype.',
 
 
   imageUrl: '/assets/paysplit app.png',
